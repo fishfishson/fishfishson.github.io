@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Zhiyuan YU.
+Hi, this is Zhiyuan Yu.
 I am an incoming full-time researcher at the CAD&CG Lab, Zhejiang University. I also serve as an algorithm consultant at [4dv.ai](https://www.4dv.ai).
 Prior to that, I obtained my Ph.D. degree from Department of Mathetics, HKUST, and was advised by Prof. [Can YANG](https://sites.google.com/site/eeyangc/).
 I also worked closely with Prof. [Xiaowei ZHOU](https://xzhou.me). 
@@ -50,6 +50,25 @@ Zhen Xu*, Yinghao Xu*, <b>Zhiyuan Yu</b>*, Sida Peng, Jiaming Sun, Hujun Bao, Xi
 <a href="https://zju3dv.github.io/longvolcap/"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 <a href="https://arxiv.org/abs/2412.09608"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://youtu.be/y7e0YRNNmXw"><i class="fas fa-fw fa-video"></i>Video</a>
+</td>
+</tr>
+</table>
+</div>
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/easyvolcap.mp4" type="video/mp4">
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>EasyVolcap: Accelerating Neural Volumetric Video Research</b><br>
+Zhen Xu, Tao Xie, Sida Peng, Haotong Lin, Qing Shuai, <b>Zhiyuan Yu</b>, Guangzhao He, Jiaming Sun, Hujun Bao, Xiaowei Zhou<br>
+<i>ACM SIGGRAPH Asia Technical Communications, 2023</i><br>
+<a href="https://github.com/zju3dv/EasyVolcap"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
+<a href="https://arxiv.org/abs/2312.06575"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>
 </td>
 </tr>
 </table>
