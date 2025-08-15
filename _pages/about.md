@@ -41,7 +41,7 @@ My research focuses on **human-centric 3D vision & graphics**, including pose es
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hkust.png"/> 
+<img width="160" src="../images/hkust.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 PhD&emsp;Aug. 2025<br>
@@ -52,7 +52,7 @@ PhD&emsp;Aug. 2025<br>
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/zju.png"/> 
+<img width="160" src="../images/zju.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 BEng&emsp;Jun. 2019<br>
