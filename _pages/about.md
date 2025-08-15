@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Bio
-
 Hi, this is Zhiyuan YU.
 I am an incoming full-time researcher at the CAD&CG Lab, Zhejiang University. I also serve as an algorithm consultant at [4dv.ai](https://www.4dv.ai).
 Prior to that, I obtained my Ph.D. degree from Department of Mathetics, HKUST, and was advised by Prof. [Can YANG](https://sites.google.com/site/eeyangc/).
