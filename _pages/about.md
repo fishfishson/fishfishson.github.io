@@ -44,7 +44,7 @@ My research focuses on **human-centric 3D vision & graphics**, including pose es
 <img width="80" src="../images/hkust.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-PhD Aug. 2025<br>
+PhD&emsp;Aug. 2025<br>
 <a href="https://www.math.hkust.edu.hk/">Department of Mathematics</a><br>
 <a href="https://hkust.edu.hk/">The Hong Kong University of Science and Technology</a><br>
 </td>
@@ -55,7 +55,7 @@ PhD Aug. 2025<br>
 <img width="80" src="../images/zju.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-BEng Jun. 2019<br>
+BEng&emsp;Jun. 2019<br>
 <a href="http://opt.zju.edu.cn/">Opto-Electronics Information Science and Engineering
 </a><br>
 <a href="http://ckc.zju.edu.cn/34924/list.htm">Advanced Honor Class for Engineering Education (工程教育高级班)
