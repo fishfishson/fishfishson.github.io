@@ -8,11 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Bio"
-    url: "https://fishfishson.github.io"
-
   - title: "Research"
     url: "https://fishfishson.github.io/#research"
+
+  - title: "Background"
+    url: "https://fishfishson.github.io/#Background"
 
   - title: "Contact"
     url: "https://fishfishson.github.io/#contact"
