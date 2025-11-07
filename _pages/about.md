@@ -10,9 +10,9 @@ redirect_from:
 Hi, this is Zhiyuan Yu.
 I am an incoming full-time researcher at the [CAD&CG Lab](http://www.cad.zju.edu.cn/), Zhejiang University. 
 I also serve as an algorithm consultant at [4dv.ai](https://www.4dv.ai).
-Prior to that, I obtained my Ph.D. degree from Mathetics, HKUST, and was advised by Prof. [Can Yang](https://sites.google.com/site/eeyangc/).
+Prior to that, I obtained my Ph.D. in Mathematics from HKUST, and was advised by Prof. [Can Yang](https://sites.google.com/site/eeyangc/).
 I also worked closely with Prof. [Xiaowei Zhou](https://xzhou.me).
-My research focuses on **human-centric 3D vision & graphics**, including pose estimation, human reconstruction and human animation.
+My research focuses on **human-centric 3D vision & graphics**, including pose estimation, reconstruction, and animation.
 
 ## Research
 
