@@ -129,4 +129,4 @@ BEng&emsp;Jun. 2019<br>
 <b>Reviewer:</b> SIGGRAPH/TVCG
 
 ## Contact
-<b>E-mail:</b> yzyzju[AT]outlook.com
+<b>E-mail:</b> zhiyuan.yu[AT]outlook.com
