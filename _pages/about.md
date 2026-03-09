@@ -126,7 +126,7 @@ BEng&emsp;Jun. 2019<br>
 
 ## Services
 <b>Organizer:</b> [Volumetric Video Challenge](https://www.4dv.ai/research/sig-asia2025-volumetric-video-challenges) <br>
-<b>Reviewer:</b> SIGGRAPH/TVCG
+<b>Reviewer:</b> SIGGRAPH TVCG/IJCV/TOG
 
 ## Contact
 <b>E-mail:</b> zhiyuan.yu[AT]zju.edu.cn
